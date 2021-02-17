@@ -17,3 +17,4 @@ estar todos seleccionados
 4) Pulsamos el boton "Finish"
 5) Debemos de ver todos los proyectos ahora en la pestaña "Project Explorer"
 6) Si algun proyecto aparece con errores, leer su README.md para solucionarlo
+"# WSPSP" 
